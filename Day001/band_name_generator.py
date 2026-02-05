@@ -1,1 +1,11 @@
-
+# Project_001
+print("------------------------------------")
+print("|  Welcome to Band Name Generator  |")
+print("------------------------------------")
+print("")
+city = input("Enter your city where you grew up: ")
+pet = input("Enter your pet name: ")
+print("")
+print("------------------------------------")
+print("|           " + city + " " + pet + "           |")
+print("------------------------------------")
